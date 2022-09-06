@@ -1,0 +1,15 @@
+{
+  "name": "httpCacheWithNode",
+  "version": "1.0.0",
+  "main": "server.js",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "repository": "git@github.com:lfan3/httpCacheWithNode.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
+
